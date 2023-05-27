@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Ulises Hernandez</h1>
-<h3 align="center">Me gusta escribir código, y disfrutar de un buen café.</h3>
-
+<h3 align="center">Me gusta escribir código, investigar y aplicar los conocimientos.</h3>
+<h3 align="center">Ver los resultados de tu trabajo plasmado en un producto terminado crea una gran satisfaccion.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uliseshm&label=Profile%20views&color=0e75b6&style=flat" alt="uliseshm" /> </p>
 
-- 🌱 Estoy aprendiendo **Kotlin, JavaScript**
+- 🌱 Estoy aprendiendo **Kotlin, JavaScript, MySQL y PHP**
 
 - 👨‍💻 Mis proyectos [https://github.com/uliseshm](https://github.com/uliseshm)
 
