@@ -1,5 +1,11 @@
 # 🤓 About Me:
-Hola, soy Ulises Hernández, un apasionado Desarrollador Frontend con sólidos conocimientos<br>en HTML, CSS y JavaScript. Me gusta aprender cosas nuevas y por eso sigo aprendiendo tecnologías que complementen  mi perfil e ir más allá, como ReactJS y NodeJS, <br>me encanta resolver problemas y estoy buscando oportunidades para aplicar mis<br>conocimientos y contribuir en proyectos emocionantes. ¡Listo para adentrarme en <br>el mundo del desarrollo web y crecer profesionalmente!
+Soy un desarrollador web apasionado por crear soluciones eficientes y funcionales. Con casi un año de experiencia formal en desarrollo, me he especializado en Python, Django, y SQLite, donde he trabajado en la creación de aplicaciones web robustas y escalables. Además, cuento con experiencia en tecnologías front-end como JavaScript, HTML, CSS y Bootstrap, lo que me permite ofrecer una experiencia de usuario intuitiva y moderna.
+
+Mi interés por la programación comenzó mucho antes de mi experiencia profesional, y he estado desarrollando proyectos personales desde que empecé a aprender. Estos proyectos me han permitido experimentar con diversas herramientas y lenguajes, ampliando mi conocimiento y mi capacidad para resolver problemas de manera creativa.
+
+A lo largo de los últimos meses, también estoy trabajado en un proyecto paralelo utilizando React Native y FastAPI, donde he podido explorar el desarrollo móvil y mejorar mis habilidades en la creación de aplicaciones móviles nativas.
+
+Me encanta aprender y mejorar mis habilidades día a día, buscando siempre la mejor manera de afrontar nuevos retos y crear soluciones que agreguen valor. Estoy motivado para seguir creciendo como desarrollador y contribuir a proyectos innovadores.
 
 
 ## 🌐 Socials:
